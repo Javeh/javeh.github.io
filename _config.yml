@@ -71,6 +71,15 @@ content:
           This is probably my largest independent project.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way of learning <mark>MySQL</mark>. It is a server-side plugin for the Java edition of Minecraft. It allows users to claim territory for different factions, based on their activity in the game. The more a user plays, the more points they earn, which means they can claim more land. I used MySQL to track land claims, restrictions players set on land they controlled, and player statistics.
+      - layout: top-middle
+        title: Draco
+        link: https://github.com/Javeh/Draco
+        additional_links:
+          -title: Javeh/Draco
+          icon: fab fa-github
+          url: github.com/Javeh/Draco
+        description:
+          - When I was the programming lead for my FIRST robotics team, I managed and created a majority of the code for our robot. The robot this code was written for went on to win an FRC Control Systems Award
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
