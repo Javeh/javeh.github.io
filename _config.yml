@@ -78,8 +78,10 @@ content:
           -title: Javeh/Draco
           icon: fab fa-github
           url: github.com/Javeh/Draco
-        description:
-          - When I was the programming lead for my FIRST robotics team, I managed and created a majority of the code for our robot. The robot this code was written for went on to win an FRC Control Systems Award
+        description: |
+
+          When I was the programming lead for my FIRST robotics team in high school, I managed and created a majority of the code for our robot. The robot this code was written for went on to win an FRC Control Systems Award.
+          I feel it is releveant to include because it demonsrates the use of multiple <mark>APIs</mark> and the <mark>Java</MySQL> programming language.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
