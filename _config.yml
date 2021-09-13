@@ -57,21 +57,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: JFactions
+        link: github.com/Javeh/JFactions
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Javeh/JFactions 
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/Javeh/JFactions
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This is probably my largest independent project.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          I started this project as a way of learning <mark>MySQL</mark>. It is a server-side plugin for the Java edition of Minecraft. It allows users to claim territory for different factions, based on their activity in the game. The more a user plays, the more points they earn, which means they can claim more land. I used MySQL to track land claims, restrictions players set on land they controlled, and player statistics.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
