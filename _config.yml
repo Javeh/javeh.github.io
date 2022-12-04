@@ -60,9 +60,7 @@ content:
           - title: Release
             icon: fab fa-itch-io
             url: https://plorthos.itch.io/nevermore
-          - title: Javeh/Nevermore
-            icon: fab fa-github
-            url: https://github.com/Javeh/Nevermore
+
         quote: >
           Fireball!
         description: |
