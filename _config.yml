@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 #twitter_username: facespics
-github_username:  Javeh
+github_username: Javeh
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -61,11 +61,8 @@ content:
         description: |
           This was my capstone project. The goal of the class was to spend the semester conceiving, pitching, and developing a product. We chose to create a video game where players could come up with their own magical spells that would be intepreted by the game's AI.
           I worked on a team of 8 people, half developing the AI side of things, and half developing the game side, which was my subteam. We developed the game in <Mark>C# (C Sharp)</mark> using the <mark>Unity</mark> game engine. I mainly worked on UI elements, but also worked on implementing multiplayer gameplay features using Unity's networking API.
-          
+
           I also helped implement a server using <mark>Flask</mark> in the <mark>Python</mark> language, that utilized <mark>MongoDB</mark>, a <mark>NoSQL</mark> database, to store previously computed spells, reducing latency and cost incurred by querying GPT-3 for those spells
-      - layout: top-middle
-        title: JFactions
-        link: github.com/Javeh/JFactions
         additional_links:
           - title: Release
             icon: fab fa-itch-io
@@ -73,10 +70,13 @@ content:
           - title: Javeh/Nevermore
             icon: fab fa-github
             url: https://github.com/Javeh/Nevermore
+      - layout: top-middle
+        title: JFactions
+        link: github.com/Javeh/JFactions
 
         # link_text: Project Website
         additional_links:
-          - title:  Javeh/JFactions 
+          - title: Javeh/JFactions
             icon: fab fa-github
             url: github.com/Javeh/JFactions
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -107,9 +107,9 @@ content:
         sub_title: Instructor
         caption: Summer 2021
         #quote: >
-          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            As an instructor, I primarily taught students over Zoom due to the COVID-19 Pandemic. My course topics included Python, Javascript, and Java. Additionally, I worked as a support team member, troubleshooting IDE and dependency problems for customers in one-on-one zoom calls.
+          As an instructor, I primarily taught students over Zoom due to the COVID-19 Pandemic. My course topics included Python, Javascript, and Java. Additionally, I worked as a support team member, troubleshooting IDE and dependency problems for customers in one-on-one zoom calls.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -155,4 +155,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
