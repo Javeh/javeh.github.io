@@ -54,6 +54,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Nevermore
         link: https://plorthos.itch.io/nevermore
         icon: fab fa-itch-io
         link: github.com/Javeh/Nevermore
