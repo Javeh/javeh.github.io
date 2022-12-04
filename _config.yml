@@ -56,7 +56,6 @@ content:
       - layout: top-middle
         title: Nevermore
         link: github.com/Javeh/Nevermore
-        icon: fab fa-github
         quote: >
           Fireball!
         description: |
