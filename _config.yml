@@ -55,7 +55,9 @@ content:
     content:
       - layout: top-middle
         link: https://plorthos.itch.io/nevermore
+        icon: fab fa-itch-io
         link: github.com/Javeh/Nevermore
+        icon: fab fa-github
         quote: >
           Fireball!
         description: |
